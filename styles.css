@@ -1,0 +1,87 @@
+body{
+    font-family: "SF UI  Text";
+    margin: auto;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.tetxt1{
+    font-size: 50px
+}
+.buttons{
+
+}
+button{
+    height: 70px;
+    width: 150px;
+    background: none;
+    border-color: #cacaca;
+    border-radius: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "SF UI  Text";
+    font-size: 20px;
+}
+.custom-alert{
+    display: none;
+    position: absolute;
+    width: 400px;
+    font-size: 30px;
+    height: 50px;
+    right: 20px;
+    bottom: 20px;
+    background-color: #c60000;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    z-index: 1000;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.5);
+}
+.textinAllert{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.carky{
+    margin-top: 0px;
+    display: flex;
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+
+span2{
+  font-size: 50px;
+    font-weight: bold;
+}
+
+.uptime1{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    max-width: 650px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.uptimeStats{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    max-width: 650px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+.down{
+    font-size: 20px;
+
+}
